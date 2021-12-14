@@ -1,4 +1,4 @@
-package dev.j3c.edu.rabbitpractice;
+package dev.j3c.edu.rabbitpractice.config;
 
 import org.springframework.amqp.core.*;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;

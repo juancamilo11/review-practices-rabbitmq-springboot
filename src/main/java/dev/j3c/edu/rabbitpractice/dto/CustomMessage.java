@@ -1,4 +1,4 @@
-package dev.j3c.edu.rabbitpractice;
+package dev.j3c.edu.rabbitpractice.dto;
 
 
 import java.time.LocalDate;
